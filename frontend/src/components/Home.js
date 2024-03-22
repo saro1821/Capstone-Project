@@ -52,8 +52,8 @@ export  default function Home(){
                                 nextPageText={'Next'}
                                 firstPageText={'First'}
                                 lastPageText={'Last'}
-                                itemClass={'page-item'}
-                                linkClass={'page-link'}
+                                itemclassName={'page-item'}
+                                linkclassName={'page-link'}
                            />     
                     </div> : null }
                 </Fragment>
